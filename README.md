@@ -20,7 +20,6 @@ Hi, I'm Wakasso, Student at [42 Abu Dhabi](https://42abudhabi.ae/).
 # Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wakasso94&show_icons=true&theme=dracula)
-[![Wakasso94's GitHub stats](https://github-readme-stats.vercel.app/api?username=wakasso94&show_icons=true&theme=dracula)](https://github.com/Wakasso94)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakasso94&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Wakasso94's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakasso94&layout=compact&show_icons=true&theme=dracula)](https://github.com/Wakasso94)
+[![Wakasso94](https://badge42.herokuapp.com/api/stats/imaman-s?cursus=42Cursus&privacyName=true)](https://github.com/Wakasso94)
