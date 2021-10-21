@@ -18,8 +18,8 @@ Hi, I'm Wakasso, Student at [42 Abu Dhabi](https://42abudhabi.ae/).
 
 # Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hebx&show_icons=true&theme=dracula)
-[![wakasso94's GitHub stats](https://github-readme-stats.vercel.app/api?username=hebx&show_icons=true&theme=dracula)](https://github.com/Hebx)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wakasso94&show_icons=true&theme=dracula)
+[![Wakasso94's GitHub stats](https://github-readme-stats.vercel.app/api?username=wakasso94&show_icons=true&theme=dracula)](https://github.com/Wakasso94)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hebx&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![wakasso94's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hebx&layout=compact&show_icons=true&theme=dracula)](https://github.com/wakasso94)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakasso94&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakasso94's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakasso94&layout=compact&show_icons=true&theme=dracula)](https://github.com/Wakasso94)
